@@ -1,0 +1,62 @@
+[
+    {
+      "Nome": "O Senhor dos Anéis",
+      "Preco": "R$ 30,00",
+      "Autor": "J.R.R. Tolkien",
+      "Editora": "Editora Harper Collins"
+    },
+    {
+      "Nome": "Hobbit",
+      "Preco": "R$ 25,00",
+      "Autor": "J.R.R. Tolkien",
+      "Eiditora": "Editora Harper Collins"
+    },
+    {
+      "Nome": "Harry Potter e a Pedra Filosofal",
+      "Preco": "R$ 35,00",
+      "Autor": "J.K. Rowling",
+      "Editora": "Editora Scholastic"
+    },
+    {
+      "Nome": "Entrevista com o Vampiro",
+      "Preco": "R$ 40,00",
+      "Autor": "Anne Rice",
+      "Editora": "Editora Rocco"
+    },
+    {
+      "Nome": "O Vampiro Lestat",
+    "Preco": "R$ 30,00",
+    "Autor": "Anne Rice",
+    "Editora": "Editora Rocco"
+    },
+    {
+      "Nome": "O Vampiro Lestat",
+      "preco": "R$ 30,00",
+      "Autor": "Anne Rice",
+      "Editora": "Editora Rocco"
+    },
+    {
+      "Nome": "Um tom de Magia",
+      "preco": "R$ 40,00",
+      "Autor": "V.E. Schewab",
+      "Editora": "Editora Rocco"
+    },
+    {
+      "Nome": "Vilões",
+      "preco": "R$ 30,00",
+      "Autor": "V.E. Schewab",
+      "Editora": "Editora Rocco"
+    },
+    {
+      "Nome": "Jack Estripador",
+      "preco": "R$ 40,00",
+      "Autor": "Kerri Maniscalco",
+      "Editora": "Darkside"
+    },
+    {
+      "Nome": "Príncipe Drácula",
+      "preco": "R$ 60,00",
+      "Autor": "Kerri Maniscalco",
+      "Editora": "Darkside"
+    }
+  ]

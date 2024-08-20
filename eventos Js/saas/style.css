@@ -1,0 +1,21 @@
+.one {
+    background-color: orange;
+    height: 1600px;
+    align-content: center;
+    margin: auto;
+}
+
+.two {
+    background-color: yellow;
+    width: 700px;
+    height: 700px;
+    margin: auto;
+    align-content: center;
+}
+
+.three {
+    background-color: blue;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+}
